@@ -1,0 +1,12 @@
+{
+  "run_id": "91803ed0f1774a65bd0058f24f7487ed",
+  "status": "succeeded",
+  "model_source": "scripted",
+  "model_cost_cny": 0.0,
+  "agents": 4,
+  "receipts": 9,
+  "verification_passed": true,
+  "model_calls_enabled": false,
+  "ui_http_status": 200,
+  "ui_url": "http://localhost:5173"
+}

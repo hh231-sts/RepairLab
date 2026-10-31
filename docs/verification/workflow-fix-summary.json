@@ -1,0 +1,37 @@
+{
+  "tests": {
+    "workflow-unit-final.xml": {
+      "tests": 70,
+      "errors": 0,
+      "failures": 0,
+      "skipped": 1,
+      "passed": 69
+    },
+    "workflow-integration.xml": {
+      "tests": 18,
+      "errors": 0,
+      "failures": 0,
+      "skipped": 0,
+      "passed": 18
+    },
+    "workflow-e2e-scripted.json": {
+      "startTime": "2026-10-31T08:05:42.665Z",
+      "duration": 17232.934,
+      "expected": 3,
+      "skipped": 0,
+      "unexpected": 0,
+      "flaky": 0
+    },
+    "workflow-e2e-mock-real-mode.json": {
+      "startTime": "2026-10-31T08:03:57.880Z",
+      "duration": 13436.118,
+      "expected": 1,
+      "skipped": 0,
+      "unexpected": 0,
+      "flaky": 0
+    }
+  },
+  "new_real_model_http_attempts_in_this_verification": 0,
+  "model_responses": "scripted or in-memory HTTP transport",
+  "original_paid_runs_modified": false
+}

@@ -1,0 +1,20 @@
+{
+  "access_date": "2026-10-31",
+  "row_counts": {
+    "01-china-jd.md:CN": 28,
+    "02-global-jd.md:G": 32,
+    "03-oss-landscape.md:O": 50,
+    "04-frontier-and-harness.md:F": 39
+  },
+  "jd_evidence_counts": {
+    "A": 26,
+    "B": 34
+  },
+  "frontier_reference_definitions": 39,
+  "unresolved_frontier_references": [],
+  "missing_local_links": [],
+  "unicode_replacement_character_files": [],
+  "unique_url_count": 205,
+  "external_url_status_checked": false,
+  "agent_project_implemented_or_benchmarked": false
+}

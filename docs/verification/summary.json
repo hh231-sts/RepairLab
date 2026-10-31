@@ -1,0 +1,53 @@
+{
+  "captured_at": "2026-10-31T12:43:25.622224+08:00",
+  "python": "3.12.5 (tags/v3.12.5:ff3bc82, Aug  6 2024, 20:45:27) [MSC v.1940 64 bit (AMD64)]",
+  "dependencies": {
+    "fastapi": "0.162.0",
+    "pydantic": "2.14.2",
+    "sqlalchemy": "2.0.55",
+    "psycopg": "3.3.6",
+    "langgraph": "1.2.19",
+    "langgraph-checkpoint-postgres": "3.2.0",
+    "mcp": "1.30.0",
+    "pgvector": "0.5.1",
+    "pytest": "8.4.2"
+  },
+  "lock_hashes": {
+    "uv.lock": "ccf01bf908a5cf63fb9223c2f624f9aa0ec6e50737aead4690d8219fe7da8d93",
+    "frontend/package-lock.json": "e80981771996e2b5406686b4365570dcb3f00470cc7c72cd75d9fd344a458182"
+  },
+  "tests": {
+    "unit": {
+      "tests": 53,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 1,
+      "passed": 52
+    },
+    "integration": {
+      "tests": 16,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0,
+      "passed": 16
+    },
+    "e2e": {
+      "startTime": "2026-10-31T04:41:45.129Z",
+      "duration": 37428.386,
+      "expected": 3,
+      "skipped": 0,
+      "unexpected": 0,
+      "flaky": 0
+    }
+  },
+  "real_model_calls": 0,
+  "embedding_weights_loaded": false,
+  "real_benchmark_tasks_admitted": 0,
+  "formal_model_experiments_completed": 0,
+  "limits": [
+    "Windows symlink creation unavailable; one test skipped",
+    "WSL user-distribution startup not executed",
+    "Harbor CLI not executed",
+    "Real model and E5 protocol/quality validation deferred"
+  ]
+}

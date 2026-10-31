@@ -1,0 +1,3043 @@
+{
+  "access_date": "2026-10-31",
+  "note": "URL inventory extracted from reports; may include leads, inaccessible pages and historical sources. Evidence grades remain in the reports. No automated live URL validation.",
+  "unique_urls": 205,
+  "sources": [
+    {
+      "url": "https://a2a-protocol.org/latest/specification/",
+      "domain": "a2a-protocol.org",
+      "titles": [
+        "A2A：latest specification",
+        "A2A latest"
+      ],
+      "occurrences": [
+        {
+          "file": "04-frontier-and-harness.md",
+          "line": 121
+        },
+        {
+          "file": "README.md",
+          "line": 55
+        }
+      ]
+    },
+    {
+      "url": "https://aaif.io/news/agentic-ai-foundation-announces-four-new-projects",
+      "domain": "aaif.io",
+      "titles": [
+        "AAIF：Four New Projects"
+      ],
+      "occurrences": [
+        {
+          "file": "04-frontier-and-harness.md",
+          "line": 123
+        }
+      ]
+    },
+    {
+      "url": "https://agentskills.io/specification",
+      "domain": "agentskills.io",
+      "titles": [
+        "Agent Skills：Specification"
+      ],
+      "occurrences": [
+        {
+          "file": "04-frontier-and-harness.md",
+          "line": 122
+        }
+      ]
+    },
+    {
+      "url": "https://amazon.jobs/en/jobs/10565536/software-development-engineer-agentcore-aws-agentic-ai",
+      "domain": "amazon.jobs",
+      "titles": [
+        "Software Development Engineer - AgentCore, AWS Agentic AI，10565536"
+      ],
+      "occurrences": [
+        {
+          "file": "02-global-jd.md",
+          "line": 39
+        }
+      ]
+    },
+    {
+      "url": "https://app.mokahr.com/social-recruitment/moonshot/148506",
+      "domain": "app.mokahr.com",
+      "titles": [
+        "Moka官方租户候选入口"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 66
+        }
+      ]
+    },
+    {
+      "url": "https://arxiv.org/abs/2503.13657v3",
+      "domain": "arxiv.org",
+      "titles": [
+        "MAST：Why Do Multi-Agent LLM Systems Fail?"
+      ],
+      "occurrences": [
+        {
+          "file": "04-frontier-and-harness.md",
+          "line": 109
+        }
+      ]
+    },
+    {
+      "url": "https://arxiv.org/abs/2510.04618v3",
+      "domain": "arxiv.org",
+      "titles": [
+        "ACE"
+      ],
+      "occurrences": [
+        {
+          "file": "04-frontier-and-harness.md",
+          "line": 128
+        }
+      ]
+    },
+    {
+      "url": "https://arxiv.org/abs/2512.24601v3",
+      "domain": "arxiv.org",
+      "titles": [
+        "Recursive Language Models"
+      ],
+      "occurrences": [
+        {
+          "file": "04-frontier-and-harness.md",
+          "line": 118
+        }
+      ]
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.16313v2",
+      "domain": "arxiv.org",
+      "titles": [
+        "MemoryArena"
+      ],
+      "occurrences": [
+        {
+          "file": "04-frontier-and-harness.md",
+          "line": 124
+        }
+      ]
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.16666v3",
+      "domain": "arxiv.org",
+      "titles": [
+        "Towards a Science of AI Agent Reliability"
+      ],
+      "occurrences": [
+        {
+          "file": "04-frontier-and-harness.md",
+          "line": 112
+        }
+      ]
+    },
+    {
+      "url": "https://arxiv.org/abs/2603.28052",
+      "domain": "arxiv.org",
+      "titles": [
+        "Meta-Harness 论文"
+      ],
+      "occurrences": [
+        {
+          "file": "04-frontier-and-harness.md",
+          "line": 129
+        }
+      ]
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.00651",
+      "domain": "arxiv.org",
+      "titles": [
+        "Agent Evaluation Reliability"
+      ],
+      "occurrences": [
+        {
+          "file": "04-frontier-and-harness.md",
+          "line": 113
+        }
+      ]
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.05640",
+      "domain": "arxiv.org",
+      "titles": [
+        "Can CaMeLs Talk?",
+        "多Agent注入传播的近期研究"
+      ],
+      "occurrences": [
+        {
+          "file": "04-frontier-and-harness.md",
+          "line": 136
+        },
+        {
+          "file": "05-project-recommendation.md",
+          "line": 191
+        }
+      ]
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.09832v2",
+      "domain": "arxiv.org",
+      "titles": [
+        "SkillForge"
+      ],
+      "occurrences": [
+        {
+          "file": "04-frontier-and-harness.md",
+          "line": 135
+        }
+      ]
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.25373",
+      "domain": "arxiv.org",
+      "titles": [
+        "MemDerive"
+      ],
+      "occurrences": [
+        {
+          "file": "04-frontier-and-harness.md",
+          "line": 126
+        }
+      ]
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.25858",
+      "domain": "arxiv.org",
+      "titles": [
+        "Are Self-Evolving Agents Continual Learners?"
+      ],
+      "occurrences": [
+        {
+          "file": "04-frontier-and-harness.md",
+          "line": 130
+        }
+      ]
+    },
+    {
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
+      "domain": "blog.modelcontextprotocol.io",
+      "titles": [
+        "MCP：2026-07-28 发布说明"
+      ],
+      "occurrences": [
+        {
+          "file": "04-frontier-and-harness.md",
+          "line": 120
+        }
+      ]
+    },
+    {
+      "url": "https://campus-talent.alibaba.com/campus/position/199903260012",
+      "domain": "campus-talent.alibaba.com",
+      "titles": [
+        "算法工程师-AI Agent 199903260012"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 47
+        }
+      ]
+    },
+    {
+      "url": "https://campus.kuaishou.cn/recruit/campus/e/",
+      "domain": "campus.kuaishou.cn",
+      "titles": [
+        "官方校招入口"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 63
+        }
+      ]
+    },
+    {
+      "url": "https://career.huawei.com/cn",
+      "domain": "career.huawei.com",
+      "titles": [
+        "官方招聘"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 70
+        }
+      ]
+    },
+    {
+      "url": "https://career.huawei.com/cn/department-list",
+      "domain": "career.huawei.com",
+      "titles": [
+        "部门列表"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 70
+        }
+      ]
+    },
+    {
+      "url": "https://career.huawei.com/cn/young-genius",
+      "domain": "career.huawei.com",
+      "titles": [
+        "挑战课题"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 70
+        }
+      ]
+    },
+    {
+      "url": "https://careers.microsoft.com/v2/global/en/locations/shanghai.html",
+      "domain": "careers.microsoft.com",
+      "titles": [
+        "Software Engineer II - Azure SRE Agent（上海官方列表）",
+        "Software Engineer II - Agentic Sandbox（同列表）",
+        "G12/G13 官方列表"
+      ],
+      "occurrences": [
+        {
+          "file": "02-global-jd.md",
+          "line": 35
+        },
+        {
+          "file": "02-global-jd.md",
+          "line": 36
+        },
+        {
+          "file": "02-global-jd.md",
+          "line": 88
+        }
+      ]
+    },
+    {
+      "url": "https://careers.pddglobalhr.com/campus/grad/detail?t=Yy4snT3eIX",
+      "domain": "careers.pddglobalhr.com",
+      "titles": [
+        "2027校招-大模型算法工程师"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 49
+        }
+      ]
+    },
+    {
+      "url": "https://careers.salesforce.com/en/jobs/jr341270/machine-learning-platform-engineer/",
+      "domain": "careers.salesforce.com",
+      "titles": [
+        "Machine Learning Platform Engineer，JR341270"
+      ],
+      "occurrences": [
+        {
+          "file": "02-global-jd.md",
+          "line": 41
+        }
+      ]
+    },
+    {
+      "url": "https://careers.tencent.com/jobdesc.html?postId=2092447906002022400",
+      "domain": "careers.tencent.com",
+      "titles": [
+        "金融科技-Agent架构设计与推理性能优化工程师"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 22
+        }
+      ]
+    },
+    {
+      "url": "https://careers.tencent.com/jobdesc.html?postId=2100123159490637824",
+      "domain": "careers.tencent.com",
+      "titles": [
+        "星星海实验室-AI Infra CPU研发工程师"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 24
+        }
+      ]
+    },
+    {
+      "url": "https://careers.tencent.com/jobdesc.html?postId=2101890746188738560",
+      "domain": "careers.tencent.com",
+      "titles": [
+        "WorkBuddy-后台开发工程师（生态资产数据方向）"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 23
+        }
+      ]
+    },
+    {
+      "url": "https://code.visualstudio.com/blogs/2026/05/15/agent-harnesses-github-copilot-vscode",
+      "domain": "code.visualstudio.com",
+      "titles": [
+        "VS Code：The Coding Harness Behind GitHub Copilot"
+      ],
+      "occurrences": [
+        {
+          "file": "04-frontier-and-harness.md",
+          "line": 105
+        }
+      ]
+    },
+    {
+      "url": "https://cognition.com/careers",
+      "domain": "cognition.com",
+      "titles": [
+        "官方招聘页"
+      ],
+      "occurrences": [
+        {
+          "file": "02-global-jd.md",
+          "line": 16
+        }
+      ]
+    },
+    {
+      "url": "https://cursor.com/careers",
+      "domain": "cursor.com",
+      "titles": [
+        "官方招聘页"
+      ],
+      "occurrences": [
+        {
+          "file": "02-global-jd.md",
+          "line": 16
+        }
+      ]
+    },
+    {
+      "url": "https://cursor.com/careers/software-engineer-bugbot",
+      "domain": "cursor.com",
+      "titles": [
+        "Software Engineer, Bugbot",
+        "G20 官方 JD"
+      ],
+      "occurrences": [
+        {
+          "file": "02-global-jd.md",
+          "line": 43
+        },
+        {
+          "file": "02-global-jd.md",
+          "line": 92
+        }
+      ]
+    },
+    {
+      "url": "https://cursor.com/careers/software-engineer-rl-environments",
+      "domain": "cursor.com",
+      "titles": [
+        "Software Engineer, RL Environments"
+      ],
+      "occurrences": [
+        {
+          "file": "02-global-jd.md",
+          "line": 44
+        }
+      ]
+    },
+    {
+      "url": "https://developers.ashbyhq.com/docs/public-job-posting-api",
+      "domain": "developers.ashbyhq.com",
+      "titles": [
+        "公开招聘 API"
+      ],
+      "occurrences": [
+        {
+          "file": "02-global-jd.md",
+          "line": 16
+        }
+      ]
+    },
+    {
+      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "domain": "developers.openai.com",
+      "titles": [
+        "OpenAI 官方文档：Agents API"
+      ],
+      "occurrences": [
+        {
+          "file": "04-frontier-and-harness.md",
+          "line": 103
+        }
+      ]
+    },
+    {
+      "url": "https://developers.openai.com/api/docs/guides/agents/sandboxes",
+      "domain": "developers.openai.com",
+      "titles": [
+        "OpenAI 官方文档：Sandbox Agents",
+        "当前官方 sandbox 文档"
+      ],
+      "occurrences": [
+        {
+          "file": "04-frontier-and-harness.md",
+          "line": 102
+        },
+        {
+          "file": "05-project-recommendation.md",
+          "line": 95
+        }
+      ]
+    },
+    {
+      "url": "https://developers.openai.com/api/docs/guides/tools-programmatic-tool-calling",
+      "domain": "developers.openai.com",
+      "titles": [
+        "OpenAI 官方文档：Programmatic Tool Calling"
+      ],
+      "occurrences": [
+        {
+          "file": "04-frontier-and-harness.md",
+          "line": 117
+        }
+      ]
+    },
+    {
+      "url": "https://developers.openai.com/blog/codex-as-a-platform",
+      "domain": "developers.openai.com",
+      "titles": [
+        "OpenAI Developers：Codex as a platform"
+      ],
+      "occurrences": [
+        {
+          "file": "04-frontier-and-harness.md",
+          "line": 101
+        }
+      ]
+    },
+    {
+      "url": "https://developers.openai.com/tracks/building-agents",
+      "domain": "developers.openai.com",
+      "titles": [
+        "OpenAI 官方 Building agents"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 37
+        }
+      ]
+    },
+    {
+      "url": "https://docs.langchain.com/oss/python/deepagents/backends",
+      "domain": "docs.langchain.com",
+      "titles": [
+        "backend 文档"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 114
+        }
+      ]
+    },
+    {
+      "url": "https://docs.langchain.com/oss/python/langgraph/persistence",
+      "domain": "docs.langchain.com",
+      "titles": [
+        "persistence 文档"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 113
+        }
+      ]
+    },
+    {
+      "url": "https://dolphinbench.ai/",
+      "domain": "dolphinbench.ai",
+      "titles": [
+        "DolphinBench"
+      ],
+      "occurrences": [
+        {
+          "file": "04-frontier-and-harness.md",
+          "line": 125
+        }
+      ]
+    },
+    {
+      "url": "https://dolphinbench.ai/run/guide/",
+      "domain": "dolphinbench.ai",
+      "titles": [
+        "harness guide"
+      ],
+      "occurrences": [
+        {
+          "file": "04-frontier-and-harness.md",
+          "line": 125
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/Arize-ai/phoenix",
+      "domain": "github.com",
+      "titles": [
+        "Phoenix"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 102
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/Arize-ai/phoenix/blob/main/LICENSE",
+      "domain": "github.com",
+      "titles": [
+        "LICENSE",
+        "Phoenix许可",
+        "Phoenix"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 102
+        },
+        {
+          "file": "03-oss-landscape.md",
+          "line": 129
+        },
+        {
+          "file": "03-oss-landscape.md",
+          "line": 143
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/OpenHands/software-agent-sdk/",
+      "domain": "github.com",
+      "titles": [
+        "OpenHands Software Agent SDK"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 50
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/QwenLM/Qwen-Agent",
+      "domain": "github.com",
+      "titles": [
+        "Qwen-Agent"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 44
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/SWE-agent/SWE-agent/blob/main/docs/index.md",
+      "domain": "github.com",
+      "titles": [
+        "SWE-agent 官方 docs",
+        "官方建议"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 51
+        },
+        {
+          "file": "03-oss-landscape.md",
+          "line": 136
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/SWE-agent/mini-swe-agent",
+      "domain": "github.com",
+      "titles": [
+        "mini-swe-agent"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 52
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/SWE-agent/mini-swe-agent/blob/main/docs/usage/mini.md",
+      "domain": "github.com",
+      "titles": [
+        "官方使用说明"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 121
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/SWE-agent/mini-swe-agent/releases",
+      "domain": "github.com",
+      "titles": [
+        "releases"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 52
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/ServiceNow/AgentLab",
+      "domain": "github.com",
+      "titles": [
+        "AgentLab"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 93
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/ServiceNow/BrowserGym",
+      "domain": "github.com",
+      "titles": [
+        "BrowserGym"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 92
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/UKGovernmentBEIS/inspect_ai",
+      "domain": "github.com",
+      "titles": [
+        "Inspect AI"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 94
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/UKGovernmentBEIS/inspect_ai/blob/main/SECURITY.md",
+      "domain": "github.com",
+      "titles": [
+        "security"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 94
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/a2aproject/A2A",
+      "domain": "github.com",
+      "titles": [
+        "A2A"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 79
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/agentscope-ai/agentscope",
+      "domain": "github.com",
+      "titles": [
+        "AgentScope 2.0"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 42
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/agentscope-ai/agentscope-runtime",
+      "domain": "github.com",
+      "titles": [
+        "AgentScope Runtime",
+        "Runtime 迁移公告",
+        "公告",
+        "官方通知"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 43
+        },
+        {
+          "file": "03-oss-landscape.md",
+          "line": 119
+        },
+        {
+          "file": "03-oss-landscape.md",
+          "line": 135
+        },
+        {
+          "file": "README.md",
+          "line": 52
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/anomalyco/opencode",
+      "domain": "github.com",
+      "titles": [
+        "OpenCode"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 56
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/benchflow-ai/skillsbench/releases/tag/v1.1",
+      "domain": "github.com",
+      "titles": [
+        "SkillsBench 官方 v1.1"
+      ],
+      "occurrences": [
+        {
+          "file": "04-frontier-and-harness.md",
+          "line": 134
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/browser-use/browser-use",
+      "domain": "github.com",
+      "titles": [
+        "Browser Use"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 78
+        },
+        {
+          "file": "03-oss-landscape.md",
+          "line": 142
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/bytedance/deer-flow",
+      "domain": "github.com",
+      "titles": [
+        "repo"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 54
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/bytedance/deer-flow/releases/tag/v2.1.0",
+      "domain": "github.com",
+      "titles": [
+        "DeerFlow 2.1.0",
+        "官方 tag",
+        "DeerFlow 2.1 的可验证交付设计",
+        "DeerFlow 2.1"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 54
+        },
+        {
+          "file": "03-oss-landscape.md",
+          "line": 123
+        },
+        {
+          "file": "05-project-recommendation.md",
+          "line": 81
+        },
+        {
+          "file": "README.md",
+          "line": 45
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/crewAIInc/crewAI",
+      "domain": "github.com",
+      "titles": [
+        "CrewAI"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 38
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/daytonaio/daytona",
+      "domain": "github.com",
+      "titles": [
+        "Daytona",
+        "Daytona 公共 core",
+        "README",
+        "官方README"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 76
+        },
+        {
+          "file": "03-oss-landscape.md",
+          "line": 125
+        },
+        {
+          "file": "03-oss-landscape.md",
+          "line": 140
+        },
+        {
+          "file": "README.md",
+          "line": 53
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "domain": "github.com",
+      "titles": [
+        "DeepSeek Harness",
+        "README"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 53
+        },
+        {
+          "file": "03-oss-landscape.md",
+          "line": 122
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/deepseek-ai/deepseek-harness/releases",
+      "domain": "github.com",
+      "titles": [
+        "releases",
+        "release"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 53
+        },
+        {
+          "file": "03-oss-landscape.md",
+          "line": 122
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/e2b-dev/E2B",
+      "domain": "github.com",
+      "titles": [
+        "E2B"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 75
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/earendil-works/pi",
+      "domain": "github.com",
+      "titles": [
+        "Pi"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 55
+        },
+        {
+          "file": "03-oss-landscape.md",
+          "line": 141
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/ethz-spylab/agentdojo",
+      "domain": "github.com",
+      "titles": [
+        "AgentDojo"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 95
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/gepa-ai/gepa",
+      "domain": "github.com",
+      "titles": [
+        "GEPA 官方仓库"
+      ],
+      "occurrences": [
+        {
+          "file": "04-frontier-and-harness.md",
+          "line": 127
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/getzep/graphiti",
+      "domain": "github.com",
+      "titles": [
+        "Graphiti / Zep 区分",
+        "Graphiti"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 68
+        },
+        {
+          "file": "03-oss-landscape.md",
+          "line": 124
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/google-research/camel-prompt-injection",
+      "domain": "github.com",
+      "titles": [
+        "Google Research：CaMeL 官方代码"
+      ],
+      "occurrences": [
+        {
+          "file": "04-frontier-and-harness.md",
+          "line": 133
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/google/adk-python",
+      "domain": "github.com",
+      "titles": [
+        "Google ADK Python"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 36
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/google/adk-python/releases",
+      "domain": "github.com",
+      "titles": [
+        "releases",
+        "release"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 36
+        },
+        {
+          "file": "03-oss-landscape.md",
+          "line": 117
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/harbor-framework/harbor",
+      "domain": "github.com",
+      "titles": [
+        "Harbor"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 89
+        },
+        {
+          "file": "03-oss-landscape.md",
+          "line": 127
+        },
+        {
+          "file": "03-oss-landscape.md",
+          "line": 137
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/harbor-framework/terminal-bench",
+      "domain": "github.com",
+      "titles": [
+        "官方仓库"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 88
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/huggingface/smolagents",
+      "domain": "github.com",
+      "titles": [
+        "smolagents"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 40
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/infiniflow/ragflow",
+      "domain": "github.com",
+      "titles": [
+        "RAGFlow"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 64
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/langchain-ai/deepagents",
+      "domain": "github.com",
+      "titles": [
+        "Deep Agents"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 32
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/langchain-ai/deepagents/releases",
+      "domain": "github.com",
+      "titles": [
+        "releases"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 32
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/langchain-ai/langgraph",
+      "domain": "github.com",
+      "titles": [
+        "LangGraph"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 31
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/langchain-ai/langgraph/releases",
+      "domain": "github.com",
+      "titles": [
+        "releases"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 31
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/langfuse/langfuse",
+      "domain": "github.com",
+      "titles": [
+        "Langfuse",
+        "Langfuse许可"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 101
+        },
+        {
+          "file": "03-oss-landscape.md",
+          "line": 129
+        },
+        {
+          "file": "03-oss-landscape.md",
+          "line": 143
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/langgenius/dify",
+      "domain": "github.com",
+      "titles": [
+        "Dify"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 63
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/letta-ai/letta",
+      "domain": "github.com",
+      "titles": [
+        "Letta"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 67
+        },
+        {
+          "file": "03-oss-landscape.md",
+          "line": 141
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/letta-ai/letta-code",
+      "domain": "github.com",
+      "titles": [
+        "Letta Code",
+        "Letta 活跃源码"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 67
+        },
+        {
+          "file": "03-oss-landscape.md",
+          "line": 124
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/mastra-ai/mastra",
+      "domain": "github.com",
+      "titles": [
+        "Mastra"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 41
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/mastra-ai/mastra/blob/main/LICENSE.md",
+      "domain": "github.com",
+      "titles": [
+        "LICENSE",
+        "Mastra"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 41
+        },
+        {
+          "file": "03-oss-landscape.md",
+          "line": 143
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/mem0ai/mem0",
+      "domain": "github.com",
+      "titles": [
+        "Mem0"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 66
+        },
+        {
+          "file": "03-oss-landscape.md",
+          "line": 124
+        },
+        {
+          "file": "03-oss-landscape.md",
+          "line": 142
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/microsoft/SWE-bench-Live",
+      "domain": "github.com",
+      "titles": [
+        "SWE-bench Live"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 87
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/microsoft/agent-framework",
+      "domain": "github.com",
+      "titles": [
+        "Microsoft Agent Framework"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 33
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/microsoft/agent-framework/releases",
+      "domain": "github.com",
+      "titles": [
+        "releases",
+        "最新 release notes"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 33
+        },
+        {
+          "file": "03-oss-landscape.md",
+          "line": 115
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/microsoft/agent-lightning",
+      "domain": "github.com",
+      "titles": [
+        "Agent Lightning",
+        "官方 README"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 105
+        },
+        {
+          "file": "03-oss-landscape.md",
+          "line": 130
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/microsoft/autogen/blob/main/README.md",
+      "domain": "github.com",
+      "titles": [
+        "AutoGen README",
+        "AutoGen",
+        "官方README"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 34
+        },
+        {
+          "file": "03-oss-landscape.md",
+          "line": 116
+        },
+        {
+          "file": "03-oss-landscape.md",
+          "line": 134
+        },
+        {
+          "file": "README.md",
+          "line": 51
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/microsoft/semantic-kernel",
+      "domain": "github.com",
+      "titles": [
+        "Semantic Kernel",
+        "SK"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 35
+        },
+        {
+          "file": "03-oss-landscape.md",
+          "line": 116
+        },
+        {
+          "file": "03-oss-landscape.md",
+          "line": 134
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/open-telemetry/semantic-conventions-genai",
+      "domain": "github.com",
+      "titles": [
+        "OTel GenAI semantic conventions",
+        "OTel 当前仓库"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 103
+        },
+        {
+          "file": "03-oss-landscape.md",
+          "line": 129
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/openclaw/openclaw/blob/main/docs/index.md",
+      "domain": "github.com",
+      "titles": [
+        "OpenClaw 官方 docs"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 57
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/openclaw/openclaw/releases",
+      "domain": "github.com",
+      "titles": [
+        "releases"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 57
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/openhands/software-agent-sdk/blob/main/openhands-agent-server/openhands/agent_server/README.md",
+      "domain": "github.com",
+      "titles": [
+        "Agent Server README"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 120
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/opensandbox-group/OpenSandbox",
+      "domain": "github.com",
+      "titles": [
+        "OpenSandbox"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 77
+        },
+        {
+          "file": "03-oss-landscape.md",
+          "line": 125
+        },
+        {
+          "file": "03-oss-landscape.md",
+          "line": 141
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/pydantic/pydantic-ai",
+      "domain": "github.com",
+      "titles": [
+        "Pydantic AI",
+        "当前官方仓库"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 39
+        },
+        {
+          "file": "03-oss-landscape.md",
+          "line": 118
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/run-llama/llama_index",
+      "domain": "github.com",
+      "titles": [
+        "LlamaIndex"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 65
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/scaleapi/SWE-bench_Pro-os/blob/main/v2/README.md",
+      "domain": "github.com",
+      "titles": [
+        "SWE-bench Pro V2",
+        "协议",
+        "V2说明",
+        "SWE-bench Pro V2 的评分隔离"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 86
+        },
+        {
+          "file": "03-oss-landscape.md",
+          "line": 126
+        },
+        {
+          "file": "03-oss-landscape.md",
+          "line": 138
+        },
+        {
+          "file": "05-project-recommendation.md",
+          "line": 155
+        },
+        {
+          "file": "README.md",
+          "line": 54
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/sierra-research/tau2-bench/blob/main/README.md",
+      "domain": "github.com",
+      "titles": [
+        "τ-bench 当前 README",
+        "当前README"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 90
+        },
+        {
+          "file": "03-oss-landscape.md",
+          "line": 139
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/sierra-research/tau2-bench/releases/tag/v2.0.0",
+      "domain": "github.com",
+      "titles": [
+        "2.0.0 release",
+        "release",
+        "τ-bench 2.0"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 90
+        },
+        {
+          "file": "03-oss-landscape.md",
+          "line": 128
+        },
+        {
+          "file": "03-oss-landscape.md",
+          "line": 139
+        },
+        {
+          "file": "05-project-recommendation.md",
+          "line": 28
+        },
+        {
+          "file": "README.md",
+          "line": 54
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/stanford-iris-lab/meta-harness",
+      "domain": "github.com",
+      "titles": [
+        "作者代码"
+      ],
+      "occurrences": [
+        {
+          "file": "04-frontier-and-harness.md",
+          "line": 129
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/stanfordnlp/dspy",
+      "domain": "github.com",
+      "titles": [
+        "DSPy"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 69
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/verl-project/verl",
+      "domain": "github.com",
+      "titles": [
+        "verl"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 104
+        },
+        {
+          "file": "03-oss-landscape.md",
+          "line": 141
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/xlang-ai/OSWorld",
+      "domain": "github.com",
+      "titles": [
+        "OSWorld"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 91
+        }
+      ]
+    },
+    {
+      "url": "https://harness.zhigouread.com/career/jd-list",
+      "domain": "harness.zhigouread.com",
+      "titles": [
+        "Agent工程与评测实验室JD索引"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 74
+        }
+      ]
+    },
+    {
+      "url": "https://hr.163.com/job-detail.html?id=58561",
+      "domain": "hr.163.com",
+      "titles": [
+        "候选官方详情58561"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 64
+        }
+      ]
+    },
+    {
+      "url": "https://huggingface.co/docs/openenv/index",
+      "domain": "huggingface.co",
+      "titles": [
+        "Hugging Face：OpenEnv 官方文档",
+        "OpenEnv"
+      ],
+      "occurrences": [
+        {
+          "file": "04-frontier-and-harness.md",
+          "line": 132
+        },
+        {
+          "file": "05-project-recommendation.md",
+          "line": 195
+        }
+      ]
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5057647008",
+      "domain": "job-boards.greenhouse.io",
+      "titles": [
+        "Applied AI Engineer, Enterprise"
+      ],
+      "occurrences": [
+        {
+          "file": "02-global-jd.md",
+          "line": 28
+        }
+      ]
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5065894008",
+      "domain": "job-boards.greenhouse.io",
+      "titles": [
+        "Staff+ Software Engineer, Claude App Infrastructure",
+        "G06 官方 JD"
+      ],
+      "occurrences": [
+        {
+          "file": "02-global-jd.md",
+          "line": 29
+        },
+        {
+          "file": "02-global-jd.md",
+          "line": 92
+        }
+      ]
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5238637008",
+      "domain": "job-boards.greenhouse.io",
+      "titles": [
+        "Product Engineer, Computer Use"
+      ],
+      "occurrences": [
+        {
+          "file": "02-global-jd.md",
+          "line": 30
+        }
+      ]
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5395767008",
+      "domain": "job-boards.greenhouse.io",
+      "titles": [
+        "Staff+ Software Engineer, Claude Managed Agents",
+        "G04 官方 JD",
+        "Anthropic Managed Agents",
+        "Anthropic Managed Agents招聘"
+      ],
+      "occurrences": [
+        {
+          "file": "02-global-jd.md",
+          "line": 27
+        },
+        {
+          "file": "02-global-jd.md",
+          "line": 84
+        },
+        {
+          "file": "05-project-recommendation.md",
+          "line": 11
+        },
+        {
+          "file": "README.md",
+          "line": 44
+        }
+      ]
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5444766008",
+      "domain": "job-boards.greenhouse.io",
+      "titles": [
+        "Software Engineer, Staff: Applied AI, Science & Engineering"
+      ],
+      "occurrences": [
+        {
+          "file": "02-global-jd.md",
+          "line": 31
+        }
+      ]
+    },
+    {
+      "url": "https://job.ctrip.com/",
+      "domain": "job.ctrip.com",
+      "titles": [
+        "官方招聘"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 65
+        }
+      ]
+    },
+    {
+      "url": "https://job.xiaohongshu.com/campus/position/21002",
+      "domain": "job.xiaohongshu.com",
+      "titles": [
+        "2027校招-智能客服算法工程师（LLM Agent）"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 40
+        }
+      ]
+    },
+    {
+      "url": "https://job.xiaohongshu.com/campus/position/22059",
+      "domain": "job.xiaohongshu.com",
+      "titles": [
+        "2027校招-Agent平台全栈研发工程师"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 38
+        }
+      ]
+    },
+    {
+      "url": "https://job.xiaohongshu.com/campus/position/22074",
+      "domain": "job.xiaohongshu.com",
+      "titles": [
+        "2027校招-Agent Harness工程师-企业智能"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 37
+        }
+      ]
+    },
+    {
+      "url": "https://job.xiaohongshu.com/campus/position/22481",
+      "domain": "job.xiaohongshu.com",
+      "titles": [
+        "2027校招-产品工程师（Agent开发）-智能客服"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 41
+        }
+      ]
+    },
+    {
+      "url": "https://job.xiaohongshu.com/campus/position/22486",
+      "domain": "job.xiaohongshu.com",
+      "titles": [
+        "2027校招-Agent应用算法工程师-创新业务"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 39
+        }
+      ]
+    },
+    {
+      "url": "https://job.xiaohongshu.com/social/position/18753",
+      "domain": "job.xiaohongshu.com",
+      "titles": [
+        "PE/Agent全栈工程师-大商业&AI"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 43
+        }
+      ]
+    },
+    {
+      "url": "https://job.xiaohongshu.com/social/position/21635",
+      "domain": "job.xiaohongshu.com",
+      "titles": [
+        "AI Agent全栈工程师（采购方向）"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 42
+        }
+      ]
+    },
+    {
+      "url": "https://jobs.apple.com/de-at/details/200684460-0836/ai-evaluations-engineer-us-decision-intelligence?team=MLAI",
+      "domain": "jobs.apple.com",
+      "titles": [
+        "AI Evaluations Engineer, US Decision Intelligence，200684460-0836"
+      ],
+      "occurrences": [
+        {
+          "file": "02-global-jd.md",
+          "line": 62
+        }
+      ]
+    },
+    {
+      "url": "https://jobs.apple.com/en-ua/details/200688056-0836/applied-ai-engineer-agent-harness?team=SFTWR",
+      "domain": "jobs.apple.com",
+      "titles": [
+        "Applied AI Engineer, Agent Harness，200688056-0836"
+      ],
+      "occurrences": [
+        {
+          "file": "02-global-jd.md",
+          "line": 61
+        }
+      ]
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/Perplexity/f3814af2-55a3-49a5-b0cb-67199a2a45fb",
+      "domain": "jobs.ashbyhq.com",
+      "titles": [
+        "MTS, Software Engineer, Enterprise Agent Evals & Efficiency"
+      ],
+      "occurrences": [
+        {
+          "file": "02-global-jd.md",
+          "line": 52
+        }
+      ]
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/cognition/023cea7e-70db-4f79-8e82-c57564466622",
+      "domain": "jobs.ashbyhq.com",
+      "titles": [
+        "Research Engineer, Safety & Alignment"
+      ],
+      "occurrences": [
+        {
+          "file": "02-global-jd.md",
+          "line": 47
+        }
+      ]
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/cognition/13fdacf7-b4dc-4b9a-ac43-addc87de79ec",
+      "domain": "jobs.ashbyhq.com",
+      "titles": [
+        "Software Engineer, Infrastructure"
+      ],
+      "occurrences": [
+        {
+          "file": "02-global-jd.md",
+          "line": 45
+        }
+      ]
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/cognition/b6f96827-ce14-44f4-98fa-b1b8640858b6/",
+      "domain": "jobs.ashbyhq.com",
+      "titles": [
+        "Research Engineer, Infrastructure",
+        "G23 官方索引来源"
+      ],
+      "occurrences": [
+        {
+          "file": "02-global-jd.md",
+          "line": 46
+        },
+        {
+          "file": "02-global-jd.md",
+          "line": 90
+        }
+      ]
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/perplexity/9cec9b33-06f2-4ba1-8c9e-20a598361ca2",
+      "domain": "jobs.ashbyhq.com",
+      "titles": [
+        "MTS, Machine Learning Engineer, Search Agent RL"
+      ],
+      "occurrences": [
+        {
+          "file": "02-global-jd.md",
+          "line": 53
+        }
+      ]
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/perplexity/d865c821-9a27-416c-9c6a-14132a86f760",
+      "domain": "jobs.ashbyhq.com",
+      "titles": [
+        "MTS, AI Software Engineer, Agent Engine"
+      ],
+      "occurrences": [
+        {
+          "file": "02-global-jd.md",
+          "line": 51
+        }
+      ]
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/replit/4df82fb0-0bcb-4034-89ce-09e679b00fe7",
+      "domain": "jobs.ashbyhq.com",
+      "titles": [
+        "Staff Software Engineer, Agentic Ads"
+      ],
+      "occurrences": [
+        {
+          "file": "02-global-jd.md",
+          "line": 50
+        }
+      ]
+    },
+    {
+      "url": "https://jobs.bilibili.com/campus/positions/28355",
+      "domain": "jobs.bilibili.com",
+      "titles": [
+        "B站推荐算法实习生 28355"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 55
+        }
+      ]
+    },
+    {
+      "url": "https://jobs.bilibili.com/campus/positions/29836?type=0",
+      "domain": "jobs.bilibili.com",
+      "titles": [
+        "大语言模型算法实习生 29836"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 48
+        }
+      ]
+    },
+    {
+      "url": "https://jobs.bytedance.com/campus/position/7701678464139036981/detail",
+      "domain": "jobs.bytedance.com",
+      "titles": [
+        "TikTok实习 7701678464139036981"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 61
+        }
+      ]
+    },
+    {
+      "url": "https://jobs.bytedance.com/experienced/position/7325339483112638771/detail",
+      "domain": "jobs.bytedance.com",
+      "titles": [
+        "AI Agent服务端 7325339483112638771"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 61
+        }
+      ]
+    },
+    {
+      "url": "https://jobs.bytedance.com/experienced/position/7615884905150499077/detail",
+      "domain": "jobs.bytedance.com",
+      "titles": [
+        "豆包策略 7615884905150499077"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 61
+        }
+      ]
+    },
+    {
+      "url": "https://jobs.bytedance.com/experienced/position/7628902314323806469/detail",
+      "domain": "jobs.bytedance.com",
+      "titles": [
+        "Seed研究 7628902314323806469"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 61
+        }
+      ]
+    },
+    {
+      "url": "https://jobs.bytedance.com/experienced/position/7651517511770818869/detail",
+      "domain": "jobs.bytedance.com",
+      "titles": [
+        "Harness 7651517511770818869"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 61
+        }
+      ]
+    },
+    {
+      "url": "https://jobs.ultraai.site/jobs/ant/261030012663790",
+      "domain": "jobs.ultraai.site",
+      "titles": [
+        "前端Agent聚合页"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 62
+        }
+      ]
+    },
+    {
+      "url": "https://jobs.ultraai.site/jobs/ant_campus/261030012649714",
+      "domain": "jobs.ultraai.site",
+      "titles": [
+        "记忆研究聚合页"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 62
+        }
+      ]
+    },
+    {
+      "url": "https://jobs.ultraai.site/jobs/ctrip/66b816d4-1bca-4405-99c3-a2237ec35619",
+      "domain": "jobs.ultraai.site",
+      "titles": [
+        "MJ037606测评链路实习线索"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 65
+        }
+      ]
+    },
+    {
+      "url": "https://jobs.ultraai.site/jobs/kuaishou/32618",
+      "domain": "jobs.ultraai.site",
+      "titles": [
+        "Agent算法32618"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 63
+        }
+      ]
+    },
+    {
+      "url": "https://jobs.ultraai.site/jobs/kuaishou_campus/campus:13836",
+      "domain": "jobs.ultraai.site",
+      "titles": [
+        "全栈校招13836"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 63
+        }
+      ]
+    },
+    {
+      "url": "https://jobs.ultraai.site/jobs/kuaishou_trainee/25662",
+      "domain": "jobs.ultraai.site",
+      "titles": [
+        "Agent实习25662"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 63
+        }
+      ]
+    },
+    {
+      "url": "https://jobs.ultraai.site/jobs/netease/58561",
+      "domain": "jobs.ultraai.site",
+      "titles": [
+        "第三方资深Agent开发工程师"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 64
+        }
+      ]
+    },
+    {
+      "url": "https://jobs.ultraai.site/topics/agent",
+      "domain": "jobs.ultraai.site",
+      "titles": [
+        "职先机主题页"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 74
+        }
+      ]
+    },
+    {
+      "url": "https://metr.org/time-horizons/",
+      "domain": "metr.org",
+      "titles": [
+        "METR：Task-Completion Time Horizons"
+      ],
+      "occurrences": [
+        {
+          "file": "04-frontier-and-harness.md",
+          "line": 114
+        }
+      ]
+    },
+    {
+      "url": "https://modelcontextprotocol.io/docs/2026-07-28/learn/versioning",
+      "domain": "modelcontextprotocol.io",
+      "titles": [
+        "MCP：Versioning/current",
+        "MCP current"
+      ],
+      "occurrences": [
+        {
+          "file": "04-frontier-and-harness.md",
+          "line": 119
+        },
+        {
+          "file": "README.md",
+          "line": 55
+        }
+      ]
+    },
+    {
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Agentic-AI_JR2017340",
+      "domain": "nvidia.wd5.myworkdayjobs.com",
+      "titles": [
+        "Senior Software Engineer, Agentic AI，JR2017340"
+      ],
+      "occurrences": [
+        {
+          "file": "02-global-jd.md",
+          "line": 40
+        }
+      ]
+    },
+    {
+      "url": "https://openai.com/careers/agent-post-training-frontier-evals-and-environments-research-san-francisco/",
+      "domain": "openai.com",
+      "titles": [
+        "Agent Post-Training, Frontier Evals and Environments Research"
+      ],
+      "occurrences": [
+        {
+          "file": "02-global-jd.md",
+          "line": 26
+        }
+      ]
+    },
+    {
+      "url": "https://openai.com/careers/software-engineer-api-agents-san-francisco/",
+      "domain": "openai.com",
+      "titles": [
+        "Software Engineer, API Agents",
+        "G01 官方 JD"
+      ],
+      "occurrences": [
+        {
+          "file": "02-global-jd.md",
+          "line": 24
+        },
+        {
+          "file": "02-global-jd.md",
+          "line": 84
+        }
+      ]
+    },
+    {
+      "url": "https://openai.com/careers/software-engineer-cloud-agents-san-francisco/",
+      "domain": "openai.com",
+      "titles": [
+        "Software Engineer, Cloud Agents"
+      ],
+      "occurrences": [
+        {
+          "file": "02-global-jd.md",
+          "line": 25
+        }
+      ]
+    },
+    {
+      "url": "https://opentelemetry.io/docs/specs/semconv/gen-ai/",
+      "domain": "opentelemetry.io",
+      "titles": [
+        "旧 docs",
+        "OTel"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 103
+        },
+        {
+          "file": "03-oss-landscape.md",
+          "line": 141
+        }
+      ]
+    },
+    {
+      "url": "https://replit.com/careers",
+      "domain": "replit.com",
+      "titles": [
+        "官方招聘页"
+      ],
+      "occurrences": [
+        {
+          "file": "02-global-jd.md",
+          "line": 16
+        }
+      ]
+    },
+    {
+      "url": "https://replit.com/careers/jobs/43bd4e63-22c3-4b80-abd2-67eaf2c89790",
+      "domain": "replit.com",
+      "titles": [
+        "Staff Software Engineer, Agent Platform"
+      ],
+      "occurrences": [
+        {
+          "file": "02-global-jd.md",
+          "line": 48
+        }
+      ]
+    },
+    {
+      "url": "https://replit.com/careers/jobs/df7b6d30-9da1-4ace-8121-17c2aa55aa6f",
+      "domain": "replit.com",
+      "titles": [
+        "AI Agent Security Architect",
+        "G26 官方 JD"
+      ],
+      "occurrences": [
+        {
+          "file": "02-global-jd.md",
+          "line": 49
+        },
+        {
+          "file": "02-global-jd.md",
+          "line": 88
+        }
+      ]
+    },
+    {
+      "url": "https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/",
+      "domain": "research.google",
+      "titles": [
+        "Google Research：Scaling agent systems",
+        "Google agent系统扩展研究"
+      ],
+      "occurrences": [
+        {
+          "file": "04-frontier-and-harness.md",
+          "line": 106
+        },
+        {
+          "file": "README.md",
+          "line": 46
+        }
+      ]
+    },
+    {
+      "url": "https://seed.bytedance.com/zh/career",
+      "domain": "seed.bytedance.com",
+      "titles": [
+        "Seed官方招聘"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 61
+        }
+      ]
+    },
+    {
+      "url": "https://seed.bytedance.com/zh/seedearlycareer",
+      "domain": "seed.bytedance.com",
+      "titles": [
+        "Seed早期人才项目"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 61
+        }
+      ]
+    },
+    {
+      "url": "https://talent.antgroup.com/campus-position?positionId=261030012649714",
+      "domain": "talent.antgroup.com",
+      "titles": [
+        "记忆RAG研究实习候选详情"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 62
+        }
+      ]
+    },
+    {
+      "url": "https://talent.antgroup.com/off-campus-position?positionId=261030012663790",
+      "domain": "talent.antgroup.com",
+      "titles": [
+        "官方社招候选详情"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 62
+        }
+      ]
+    },
+    {
+      "url": "https://talent.baidu.com/jobs/detail/GRADUATE/74d83772-1bd0-42b9-8cc5-69eb45696b62",
+      "domain": "talent.baidu.com",
+      "titles": [
+        "上海-Agent Harness研发工程师 J100779"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 29
+        }
+      ]
+    },
+    {
+      "url": "https://talent.baidu.com/jobs/detail/INTERN/162291c8-43e8-4cc0-9c96-3fb0a7ebb720",
+      "domain": "talent.baidu.com",
+      "titles": [
+        "AI Agent开发工程师（实习生）J106681",
+        "百度实习 J106681",
+        "百度Agent开发实习 J106681"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 30
+        },
+        {
+          "file": "05-project-recommendation.md",
+          "line": 11
+        },
+        {
+          "file": "README.md",
+          "line": 42
+        }
+      ]
+    },
+    {
+      "url": "https://talent.baidu.com/jobs/detail/SOCIAL/4b326f6b-2c39-461c-ae64-69b4201c680e",
+      "domain": "talent.baidu.com",
+      "titles": [
+        "云原生Agent Infra高级研发工程师 J100117"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 31
+        }
+      ]
+    },
+    {
+      "url": "https://talent.baidu.com/jobs/detail/SOCIAL/75d3af47-7f79-4d71-862b-6fbca577bb19",
+      "domain": "talent.baidu.com",
+      "titles": [
+        "伐谋-Agent研发工程师 J99560"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 33
+        }
+      ]
+    },
+    {
+      "url": "https://talent.baidu.com/jobs/detail/SOCIAL/86c68ee0-49b2-4f96-9961-bc005139eaf8",
+      "domain": "talent.baidu.com",
+      "titles": [
+        "Dumate-Agent后端研发 J106087"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 32
+        }
+      ]
+    },
+    {
+      "url": "https://talent.baidu.com/jobs/detail/SOCIAL/d1876313-6604-4e8d-bbcc-0dca5be4e51b",
+      "domain": "talent.baidu.com",
+      "titles": [
+        "Agent后端研发工程师 J103882"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 34
+        }
+      ]
+    },
+    {
+      "url": "https://talent.deepseek.com/",
+      "domain": "talent.deepseek.com",
+      "titles": [
+        "官方人才页"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 67
+        }
+      ]
+    },
+    {
+      "url": "https://vrfi1sk8a0.jobs.feishu.cn/index/",
+      "domain": "vrfi1sk8a0.jobs.feishu.cn",
+      "titles": [
+        "官方指向的飞书招聘租户"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 68
+        }
+      ]
+    },
+    {
+      "url": "https://www.amazon.jobs/en/jobs/10530139/software-development-engineer-agent-platforms-services",
+      "domain": "www.amazon.jobs",
+      "titles": [
+        "Software Development Engineer, Agent Platforms & Services，10530139",
+        "G14 官方 JD"
+      ],
+      "occurrences": [
+        {
+          "file": "02-global-jd.md",
+          "line": 37
+        },
+        {
+          "file": "02-global-jd.md",
+          "line": 86
+        }
+      ]
+    },
+    {
+      "url": "https://www.amazon.jobs/en/jobs/10584176/software-development-engineer-aws-agentic-ai",
+      "domain": "www.amazon.jobs",
+      "titles": [
+        "Software Development Engineer, AWS Agentic AI，10584176",
+        "G15 官方 JD"
+      ],
+      "occurrences": [
+        {
+          "file": "02-global-jd.md",
+          "line": 38
+        },
+        {
+          "file": "02-global-jd.md",
+          "line": 90
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/research/code-execution-with-mcp",
+      "domain": "www.anthropic.com",
+      "titles": [
+        "Anthropic：Code execution with MCP"
+      ],
+      "occurrences": [
+        {
+          "file": "04-frontier-and-harness.md",
+          "line": 116
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/research/demystifying-evals-for-ai-agents",
+      "domain": "www.anthropic.com",
+      "titles": [
+        "Anthropic：Demystifying evals for AI agents"
+      ],
+      "occurrences": [
+        {
+          "file": "04-frontier-and-harness.md",
+          "line": 110
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/research/effective-context-engineering-for-ai-agents",
+      "domain": "www.anthropic.com",
+      "titles": [
+        "Anthropic：Effective context engineering"
+      ],
+      "occurrences": [
+        {
+          "file": "04-frontier-and-harness.md",
+          "line": 115
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/research/effective-harnesses-for-long-running-agents",
+      "domain": "www.anthropic.com",
+      "titles": [
+        "Anthropic：Effective harnesses for long-running agents"
+      ],
+      "occurrences": [
+        {
+          "file": "04-frontier-and-harness.md",
+          "line": 99
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/research/harness-design-long-running-apps",
+      "domain": "www.anthropic.com",
+      "titles": [
+        "Anthropic：Harness design for long-running apps"
+      ],
+      "occurrences": [
+        {
+          "file": "04-frontier-and-harness.md",
+          "line": 100
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/research/infrastructure-noise",
+      "domain": "www.anthropic.com",
+      "titles": [
+        "Anthropic：Infrastructure noise in agentic coding evals"
+      ],
+      "occurrences": [
+        {
+          "file": "04-frontier-and-harness.md",
+          "line": 111
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/research/managed-agents",
+      "domain": "www.anthropic.com",
+      "titles": [
+        "Anthropic：Scaling Managed Agents"
+      ],
+      "occurrences": [
+        {
+          "file": "04-frontier-and-harness.md",
+          "line": 98
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/research/multi-agent-research-system",
+      "domain": "www.anthropic.com",
+      "titles": [
+        "Anthropic：Multi-agent research system"
+      ],
+      "occurrences": [
+        {
+          "file": "04-frontier-and-harness.md",
+          "line": 108
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/research/multiagent-systems",
+      "domain": "www.anthropic.com",
+      "titles": [
+        "Anthropic：Patterns and problems in emerging multiagent systems"
+      ],
+      "occurrences": [
+        {
+          "file": "04-frontier-and-harness.md",
+          "line": 107
+        }
+      ]
+    },
+    {
+      "url": "https://www.databricks.com/company/careers/integration-data-engineering-and-applications/sr-software-engineer---agentic-applications-full-stack-8679982002",
+      "domain": "www.databricks.com",
+      "titles": [
+        "Sr Software Engineer - Agentic Applications (Full Stack)，8679982002"
+      ],
+      "occurrences": [
+        {
+          "file": "02-global-jd.md",
+          "line": 42
+        }
+      ]
+    },
+    {
+      "url": "https://www.deepseek.com/",
+      "domain": "www.deepseek.com",
+      "titles": [
+        "DeepSeek官网"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 67
+        }
+      ]
+    },
+    {
+      "url": "https://www.google.com/about/careers/applications/jobs/results/124268043860615878-software-engineer-ii-commerce-business-agent",
+      "domain": "www.google.com",
+      "titles": [
+        "Software Engineer II, Commerce, Business Agent"
+      ],
+      "occurrences": [
+        {
+          "file": "02-global-jd.md",
+          "line": 34
+        }
+      ]
+    },
+    {
+      "url": "https://www.google.com/about/careers/applications/jobs/results/74956705875534534",
+      "domain": "www.google.com",
+      "titles": [
+        "Software Engineer, Applied AI Agents, Professional Intelligence",
+        "G09 官方 JD"
+      ],
+      "occurrences": [
+        {
+          "file": "02-global-jd.md",
+          "line": 32
+        },
+        {
+          "file": "02-global-jd.md",
+          "line": 88
+        }
+      ]
+    },
+    {
+      "url": "https://www.google.com/about/careers/applications/jobs/results/79299054445437638-software-engineer-agentic-infrastructure-for-data-engineering",
+      "domain": "www.google.com",
+      "titles": [
+        "Software Engineer, Agentic Infrastructure for Data Engineering"
+      ],
+      "occurrences": [
+        {
+          "file": "02-global-jd.md",
+          "line": 33
+        }
+      ]
+    },
+    {
+      "url": "https://www.langchain.com/blog/improving-deep-agents-with-harness-engineering",
+      "domain": "www.langchain.com",
+      "titles": [
+        "LangChain：Improving Deep Agents with harness engineering"
+      ],
+      "occurrences": [
+        {
+          "file": "04-frontier-and-harness.md",
+          "line": 104
+        }
+      ]
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/",
+      "domain": "www.microsoft.com",
+      "titles": [
+        "Microsoft Research：Agent Lightning v1.0",
+        "Agent Lightning v1.0"
+      ],
+      "occurrences": [
+        {
+          "file": "04-frontier-and-harness.md",
+          "line": 131
+        },
+        {
+          "file": "05-project-recommendation.md",
+          "line": 195
+        },
+        {
+          "file": "README.md",
+          "line": 47
+        }
+      ]
+    },
+    {
+      "url": "https://www.minimax.io/careers",
+      "domain": "www.minimax.io",
+      "titles": [
+        "官方 Careers"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 68
+        }
+      ]
+    },
+    {
+      "url": "https://www.swebench.com/verified",
+      "domain": "www.swebench.com",
+      "titles": [
+        "SWE-bench Verified",
+        "Verified 规则"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 85
+        },
+        {
+          "file": "03-oss-landscape.md",
+          "line": 121
+        }
+      ]
+    },
+    {
+      "url": "https://www.tbench.ai/news/terminal-bench-4-0",
+      "domain": "www.tbench.ai",
+      "titles": [
+        "Terminal-Bench 4.0",
+        "TB4"
+      ],
+      "occurrences": [
+        {
+          "file": "03-oss-landscape.md",
+          "line": 88
+        },
+        {
+          "file": "03-oss-landscape.md",
+          "line": 127
+        },
+        {
+          "file": "03-oss-landscape.md",
+          "line": 137
+        },
+        {
+          "file": "README.md",
+          "line": 54
+        }
+      ]
+    },
+    {
+      "url": "https://www.zhipuai.cn/zh/joinus",
+      "domain": "www.zhipuai.cn",
+      "titles": [
+        "官方加入我们"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 69
+        }
+      ]
+    },
+    {
+      "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670924118350465321/detail?spread=J7NS6YR",
+      "domain": "xiaomi.jobs.f.mioffice.cn",
+      "titles": [
+        "大模型agent算法工程师"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 36
+        }
+      ]
+    },
+    {
+      "url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7671284471720020243/detail",
+      "domain": "xiaomi.jobs.f.mioffice.cn",
+      "titles": [
+        "Agent Harness研发工程师"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 35
+        }
+      ]
+    },
+    {
+      "url": "https://zhaopin.jd.com/web/job-info-detail?requementId=219685",
+      "domain": "zhaopin.jd.com",
+      "titles": [
+        "Agent软件工程师 219685"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 45
+        }
+      ]
+    },
+    {
+      "url": "https://zhaopin.jd.com/web/job-info-detail?requementId=220462",
+      "domain": "zhaopin.jd.com",
+      "titles": [
+        "Agent架构开发 220462",
+        "京东 Agent 架构开发",
+        "京东Agent架构开发"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 44
+        },
+        {
+          "file": "05-project-recommendation.md",
+          "line": 11
+        },
+        {
+          "file": "README.md",
+          "line": 43
+        }
+      ]
+    },
+    {
+      "url": "https://zhaopin.jd.com/web/job-info-detail?requementId=226656",
+      "domain": "zhaopin.jd.com",
+      "titles": [
+        "软件开发工程师-投放平台部 226656"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 46
+        }
+      ]
+    },
+    {
+      "url": "https://zhaopin.kuaishou.cn/recruit/e/",
+      "domain": "zhaopin.kuaishou.cn",
+      "titles": [
+        "官方社招入口"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 63
+        }
+      ]
+    },
+    {
+      "url": "https://zhaopin.meituan.com/web/position/detail?highlightType=campus&jobShareType=1&jobUnionId=4683995941",
+      "domain": "zhaopin.meituan.com",
+      "titles": [
+        "北斗-大模型算法工程师 SFT/RL/Agent方向"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 28
+        }
+      ]
+    },
+    {
+      "url": "https://zhaopin.meituan.com/web/position/detail?highlightType=social&jobUnionId=4761247735",
+      "domain": "zhaopin.meituan.com",
+      "titles": [
+        "本地生活AI搜索算法相关岗（详情未展示标题）"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 27
+        }
+      ]
+    },
+    {
+      "url": "https://zhaopin.meituan.com/web/position/detail?highlightType=social&jobUnionId=4791236953",
+      "domain": "zhaopin.meituan.com",
+      "titles": [
+        "AI Agent安全Harness相关研发岗（详情未展示标题）"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 26
+        }
+      ]
+    },
+    {
+      "url": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=4831038591",
+      "domain": "zhaopin.meituan.com",
+      "titles": [
+        "Agent可靠性技术专家"
+      ],
+      "occurrences": [
+        {
+          "file": "01-china-jd.md",
+          "line": 25
+        }
+      ]
+    }
+  ]
+}
